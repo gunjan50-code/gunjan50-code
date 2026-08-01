@@ -2,7 +2,7 @@
   "username": "gunjan50-code",
   "display_name": "Gunjan Gupta",
   "shell_user": "gunjan",
-  "section_order": ["contributions", "whoami", "links"],
+  "section_order": ["whoami", "links"],
   "hero_right": "info_card",
   "photo_crop": [0.20, 0.28, 0.82, 0.76],
   "photo_tuning": { "clahe": 1.6, "smooth": 30, "stretch": [5, 90], "work_width": 800 },

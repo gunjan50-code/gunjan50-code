@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>gunjan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Gunjan Gupta's GitHub contribution graph, auto-refreshed daily" />
-
-<br>
-<br>
-
 <!-- hero: monochrome ASCII portrait that types itself in, beside the
      neofetch-style info card whose rows fade in one by one.
      portrait:  python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
