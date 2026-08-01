@@ -1,0 +1,41 @@
+{
+  "username": "gunjan50-code",
+  "display_name": "Gunjan Gupta",
+  "shell_user": "gunjan",
+  "section_order": ["contributions", "whoami", "links"],
+  "hero_right": "info_card",
+  "photo_crop": [0.20, 0.28, 0.82, 0.76],
+  "photo_tuning": { "clahe": 1.6, "smooth": 30, "stretch": [5, 90], "work_width": 800 },
+  "wordmark_text": "G",
+  "role_line": "AI & Data Science · Data Analytics · Python · SQL · Power BI",
+  "info_card": [
+    ["Now", "BE, AI & Data Science, DY Patil IEMR Pune (2027)"],
+    ["Prev", "Diploma, Electronics & Telecom, First Class Distinction"],
+    ["Intern", "Web Dev & Automation, The Scaling Point UK"],
+    ["Langs", "Python · SQL · C++ · JavaScript · HTML/CSS"],
+    ["Libs", "pandas · Streamlit · PyTorch · Transformers · Flask"],
+    ["Data", "SQLite · MySQL · Power BI · DAX · star schemas"],
+    ["Build", "Retail KPI Dashboard, Sensitive Data Detector,"],
+    ["", "PingBoard uptime monitor"],
+    ["Certs", "Oracle OCI GenAI Professional · CS50 Python"],
+    ["Base", "Pune, Maharashtra, India"]
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "value": "gunjan-gupta",
+      "url": "https://www.linkedin.com/in/gunjan-gupta-a74205374/",
+      "color": "0A66C2",
+      "logo": "linkedin",
+      "logo_color": "white"
+    },
+    {
+      "label": "Email",
+      "value": "gunjangupta150150@gmail.com",
+      "url": "mailto:gunjangupta150150@gmail.com",
+      "color": "EA4335",
+      "logo": "gmail",
+      "logo_color": "white"
+    }
+  ]
+}

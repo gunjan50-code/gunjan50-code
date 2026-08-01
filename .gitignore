@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+wordmark-*.svg
+
+# Source photos are deliberately NOT published.
+#
+# A profile README repo has to be public, so anything committed here is a
+# permanent, publicly downloadable file, and git history keeps it even if it is
+# deleted later. The full-resolution original is not needed for the profile to
+# render: portrait-ascii.svg is committed and is the only thing the README
+# loads. Keep the originals locally so you can re-run prep_photo.py.
+#
+# Delete these two lines if you would rather publish them.
+source-photo.*
+source-prepped.png

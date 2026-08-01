@@ -1,0 +1,10 @@
+# Optional extras, only needed to regenerate the ASCII portrait from a photo
+# (scripts/prep_photo.py). The daily GitHub Action does NOT install these --
+# the portrait SVG is committed once and never changes on its own.
+#
+#   pip install -r scripts/requirements-photo.txt
+#
+# rembg pulls onnxruntime (~150 MB) and downloads a segmentation model on first
+# run. prep_photo.py degrades gracefully if you skip it.
+opencv-python-headless>=4.9.0
+rembg>=2.0.50
